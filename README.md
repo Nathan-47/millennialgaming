@@ -1,4 +1,4 @@
-# Millennial Gaming
+# Millennial Gaming (PHP)
 A 2 page game site with limited user interactivity.
 
 <br />
