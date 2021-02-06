@@ -1,63 +1,17 @@
-# Millennial Gaming (PHP)
-A 2 page game site with limited user interactivity.
-
-<br />
-
-## Table of Contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Status](#status)
-* [Inspiration](#inspiration)
-
-
-## General info
-### What is the project about and why was it made?
-
-
-### What did I learn making this project?
- 
-
-<br />
-
-## Technologies
-### What technologies are used in this project?
-Project created with:
-* 
-* 
-* 
-* 
-* 
-
-### What skills have I showcased in this project?
-
+# Millennial Gaming
+This project was made at my time at university. The aim of this piece of work was to design and crearte an interactive website/application for a business to show a section on a site to 
+showcase particular products.
 
 <br />
 
 ## Setup
-### Use of local server or libraries in project?
-
-
-### Instructions on how to access and open the doc for localhost?
-*	
-*	
-*	
-*	
-*
-
-### Instructions when on site
-*	
-*	
-
-
-<br />
-
-## Status
-### Is the project finished, does it need time to finish, what is the current progress?
-
-* 
-
-<br />
-
-## Inspiration
-### What inspired you to create a certain design or structure of the site?
+### PROJECT INSTALLATION
+ *A local host server preferably xampp must be installed for project to be initiated.
+ 
+ 1. **Download** the project zip folder. `Code -> download zip`
+ 2. When file is downloaded, open the recently downloaded folder and extract the files within it.
+ 3. Place the extracted files into xampp folder which should lead to a directory folder called **htdocs**.
+ 
+  `documents -> xampp -> htdocs`
+  
+ 4. Open index.html and project will boot up. View in browser at `https://localhost:8080`
